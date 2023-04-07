@@ -1,0 +1,30 @@
+html {height: 100%;}
+body {background-image: linear-gradient(#252725, rgba(59, 123, 241, 0.765));}
+h1{
+  color: rgb(250, 250, 250);
+  text-align: center;
+  font-size: 15px;
+  width: 18%;
+  background-color: rgb(44, 46, 42);
+  padding: 30px;
+  border: 10px double rgb(63, 183, 213);
+  display: inline-block;
+  font-family: 'Alkatra', cursive;
+      }
+p{
+ color: #252725;
+ text-align: center;
+ font-size: 18px;
+ font-family: 'Indie Flower', cursive;
+      }
+h3{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 15px;
+  width: 75%;
+  background-color: rgb(255, 255, 255);
+  padding: 30px;
+  border: 10px double rgb(3, 3, 3);
+  display: inline-block;
+  margin: 55px;
+      }
